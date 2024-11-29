@@ -1,5 +1,19 @@
 # DAO "Национальный технологический центр цифровой криптографии" Российской Федерации
 
+![Stars](https://img.shields.io/github/stars/encrypted-systems/zk_snarks?style=social)
+![License](https://img.shields.io/github/license/encrypted-systems/zk_snarks)
+![Rust](https://img.shields.io/badge/language-rust-red)
+![Shell](https://img.shields.io/badge/language-shell-lightgrey)
+![Blockchain](https://img.shields.io/badge/tech-blockchain-blue)
+![Cryptography](https://img.shields.io/badge/tech-cryptography-blue)
+![ZKP](https://img.shields.io/badge/zk-proofs-important)
+![SNARKs](https://img.shields.io/badge/SNARKs-efficient-green)
+![Quantum Resistance](https://img.shields.io/badge/security-quantum%20resistant-brightgreen)
+![Blockchain](https://img.shields.io/badge/blockchain-scalable-blue)
+![Decentralized](https://img.shields.io/badge/network-decentralized-lightgreen)
+![Support](https://img.shields.io/badge/support-give%20a%20star-brightgreen)
+![Contributor](https://img.shields.io/badge/contributors-welcome-orange)
+
 Автор: **Муравьев Герман Валерьевич**
 
 ***ВСЕ ПРАВА ЗАЩИЩЕНЫ ПО СРЕДСТВУ ИСПОЛЬЗОВАНИЯ MIT ЛИЦЕНЗИИ***
@@ -9,6 +23,9 @@
 связанных с незаконной деятельностью, включая, но не ограничиваясь, передачей средств, 
 имеющих сомнительное происхождение, через интернет-сети. 
 Все риски, связанные с нарушением законодательства, возлагаются на пользователя.
+
+## ⭐ Поддержите проект
+Если вам понравился этот репозиторий, пожалуйста, поставьте ⭐! Это мотивирует работать над новыми улучшениями и поддерживать проект.
 
 ---
 
