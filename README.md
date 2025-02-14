@@ -1,4 +1,4 @@
-# DAO "Национальный технологический центр цифровой криптографии" Российской Федерации
+# ZK_STARKS Research
 
 ![Stars](https://img.shields.io/github/stars/encrypted-systems/zk_snarks?style=social)
 ![License](https://img.shields.io/github/license/encrypted-systems/zk_snarks)
